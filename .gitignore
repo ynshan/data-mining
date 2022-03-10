@@ -1,0 +1,12 @@
+nohup.out
+logs/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.ipynb
+.history/
+.vscode/
+sql/
+todo_log/
+.DS_Store
+.git
