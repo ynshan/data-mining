@@ -10,3 +10,4 @@ sql/
 todo_log/
 .DS_Store
 .git
+.idea
